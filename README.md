@@ -1,7 +1,0 @@
-- Babel
-- PostCSS (autoprefixer, postcss-preset-env, postcss-normalize)
-- Webpack (ESLintPlugin, HTMLWebpackPlugin, MiniCssExtractPlugin, TerserPlugin)
-- ESLint (airbnb-base,prettier)
-- Prettier
-- Sass
-- Gh-Pages
